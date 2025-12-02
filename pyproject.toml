@@ -5,4 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "click>=8.3.1",
+    "dask>=2025.11.0",
+    "holoviews[recommended]>=1.22.0",
+    "hvplot>=0.12.1",
+    "jupyterlab>=4.5.0",
+    "ruff>=0.14.7",
+    "tqdm>=4.67.1",
+    "virtualizarr[hdf,icechunk]>=2.2.1",
+    "xarray[complete]>=2025.11.0",
+    "xclim>=0.59.1",
 ]
