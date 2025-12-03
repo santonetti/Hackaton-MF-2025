@@ -42,8 +42,10 @@ Une application à déployer en localhost a été mise en place avec la librairi
 Pour déployer l'application :
 
 ```shell
-à renseigner
+panel serve app.py
 ```
+
+Accessible sur l'URL : http://localhost:5006/app après déploiement
 
 ---
 
