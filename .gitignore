@@ -13,3 +13,7 @@ wheels/
 # IDEs
 .idea
 .vscode
+
+# data files
+data/*/*.nc
+data/*/*.csv

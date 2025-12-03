@@ -10,6 +10,7 @@ dependencies = [
     "holoviews[recommended]>=1.22.0",
     "hvplot>=0.12.1",
     "jupyterlab>=4.5.0",
+    "pandas>=2.3.3",
     "ruff>=0.14.7",
     "tqdm>=4.67.1",
     "virtualizarr[hdf,icechunk]>=2.2.1",
